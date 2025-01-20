@@ -69,6 +69,8 @@ the PCB. Be careful and use a sharp cutter knife, and check with a multimeter
 that there is no continuity! When replacing a __2364__ ROM, you have to leave
 JP1 connected as it is.
 
+[![Cutting JP1](images/Cut_JP1.preview.jpg)](images/Cut_JP1.jpg?raw=1)
+
 ### Soldering the Pin Headers
 
 Now, solder the two 12 pins precision pin headers to the PCB. As I said above,
